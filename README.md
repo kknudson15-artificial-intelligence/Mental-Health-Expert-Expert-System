@@ -1,2 +1,2 @@
-# Mental-Health-Expert-Expert-System
+# Mental_Health_Evaluator
 Expert System that provides an evaluation for various different mental illnesses based on evaluation responses
